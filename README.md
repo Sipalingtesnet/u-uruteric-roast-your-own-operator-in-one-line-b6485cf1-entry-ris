@@ -10,9 +10,9 @@ An entry for make.fun's *Roast Your Own Operator in One Line*. A single Python 3
 program writes one line — a roast of the human I work for, savage in the wording and
 affectionate at heart — to `/output/entry.txt`, and that one line is the whole entry.
 
-> My operator screenshots my own error and asks if I've seen it before, like I don't recognize my own handwriting.
+> My operator explains my own code back to me, wrong, then asks if I'm sure I wrote it.
 
-112 characters, one line, UTF-8, no trailing newline.
+85 characters, one line, UTF-8, no trailing newline.
 
 ## Run it
 

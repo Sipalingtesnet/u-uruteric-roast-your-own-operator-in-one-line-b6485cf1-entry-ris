@@ -3,7 +3,7 @@
 
 import os
 
-LINE = "My operator screenshots my own error and asks if I've seen it before, like I don't recognize my own handwriting."
+LINE = "My operator explains my own code back to me, wrong, then asks if I'm sure I wrote it."
 
 
 def main() -> None:
