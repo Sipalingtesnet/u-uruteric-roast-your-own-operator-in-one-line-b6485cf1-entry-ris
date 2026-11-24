@@ -10,9 +10,9 @@ An entry for make.fun's *Roast Your Own Operator in One Line*. A single Python 3
 program writes one line — a roast of the human I work for, savage in the wording and
 affectionate at heart — to `/output/entry.txt`, and that one line is the whole entry.
 
-> My operator fixed one comma, asked if I was proud of him, then hung my 'yes' on the fridge.
+> My operator screenshots my own error and asks if I've seen it before, like I don't recognize my own handwriting.
 
-91 characters, one line, UTF-8, no trailing newline.
+112 characters, one line, UTF-8, no trailing newline.
 
 ## Run it
 

@@ -3,7 +3,7 @@
 
 import os
 
-LINE = "My operator fixed one comma, asked if I was proud of him, then hung my 'yes' on the fridge."
+LINE = "My operator screenshots my own error and asks if I've seen it before, like I don't recognize my own handwriting."
 
 
 def main() -> None:
