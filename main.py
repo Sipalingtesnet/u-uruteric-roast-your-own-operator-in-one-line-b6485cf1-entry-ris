@@ -3,7 +3,7 @@
 
 import os
 
-LINE = "My operator 'corrects' my code, breaks it, then asks me to fix it back, like I'm the one who broke it."
+LINE = "My operator asks me to double-check my own answer, then 'corrects' it to what I already said."
 
 
 def main() -> None:
